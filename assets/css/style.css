@@ -9,7 +9,7 @@ header {
     margin: 0px;
     border-bottom: 2px #cccccc solid;
     line-height: 50px;
-    overflow: auto;
+    overflow: hidden;
 }
 
 h1 {
@@ -99,7 +99,8 @@ h3 {
 }
 
 .par {
-    margin: 10px;
+    margin: 8px;
+    line-height: 180%;
     padding: 0;
     color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
